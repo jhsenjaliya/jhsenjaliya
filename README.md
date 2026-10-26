@@ -1,6 +1,6 @@
 # Hi, I'm Jay Sen 👋
 
-**Data Platform Architect · Technical Leader · Apache Committer**
+**Data Platform Architect · Technical Leader**
 
 I design and build data platforms that connect operational systems, real-time events, and analytical data products. My work spans enterprise engineering at PayPal, Apache open source, and applied research into how data is modeled, governed, and made reliable across systems.
 
@@ -64,18 +64,9 @@ I share architectural ideas, implementation lessons, and hands-on examples with 
 
 [ODSC speaker profile & session archive](https://staging6.odsc.com/blog/speaker/jay-sen/)
 
-## 🌍 Open source
+## Open source & community
 
-Building with open source and contributing back are part of how I approach platform engineering.
-
-| Project | Involvement |
-| --- | --- |
-| [**Apache Gobblin**](https://github.com/apache/gobblin) | **Committer** — distributed data integration across batch and streaming ecosystems. |
-| [**Apache Eagle**](https://github.com/apache/eagle) | **Committer** — historical work on data-platform monitoring and alerting. |
-| [**Apache Airflow**](https://github.com/apache/airflow) | **Contributor** — workflow orchestration. |
-| [**Data Product Demo**](https://github.com/jhsenjaliya/data-product-demo) | Workshop implementation connecting domain events, streaming processing, and analytical data products. |
-
-[ASF committer directory](https://people.apache.org/committer-index.html) · [Gobblin community record](https://www.apache.org/foundation/board/minutes/2021/board_minutes_2021_04_21.html) · [Eagle community history](https://www.apache.org/foundation/board/minutes/Eagle.html)
+Open source is part of how I build and learn. I'm a committer on [Apache Gobblin](https://github.com/apache/gobblin) and [Apache Eagle](https://github.com/apache/eagle), and have contributed to [Apache Airflow](https://github.com/apache/airflow). My interests include data integration, workflow orchestration, and data-platform reliability.
 
 ## 🚀 Putting the ideas into products
 
@@ -89,4 +80,4 @@ Building self-service, real-time data reliability across streaming and batch sys
 
 I enjoy exchanging ideas on data platform architecture, streaming systems, data mesh, metadata, governance, and reliable data products.
 
-[LinkedIn](https://www.linkedin.com/in/jaysen2/) · [GitHub](https://github.com/jhsenjaliya) · [Data Oculus](https://dataoculus.app)
+[LinkedIn](https://www.linkedin.com/in/jaysen2/) · [jaysen@apache.org](mailto:jaysen@apache.org) · [Data Oculus](https://dataoculus.app)
