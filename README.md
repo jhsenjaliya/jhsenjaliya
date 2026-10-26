@@ -2,21 +2,13 @@
 
 **Data platforms · Distributed systems · Apache Committer · Founder**
 
-Engineer and entrepreneur at heart. I turn complex infrastructure into platforms that are simpler to build on, operate, and trust. My work spans enterprise data engineering at PayPal, Apache open source, and products for cloud development and data reliability.
+Engineer and entrepreneur at heart. I turn complex infrastructure into platforms that are simpler to build on, operate, and trust. My work spans enterprise data engineering at PayPal, Apache open source, and products for data reliability.
 
-[LocalCloud](https://local.cloud) · [Data Oculus](https://dataoculus.app) · [LinkedIn](https://www.linkedin.com/in/jaysen2/) · [Writing](https://medium.com/paypal-tech/next-gen-data-movement-platform-at-paypal-100f70a7a6b)
+[Data Oculus](https://dataoculus.app) · [LinkedIn](https://www.linkedin.com/in/jaysen2/) · [Writing](https://medium.com/paypal-tech/next-gen-data-movement-platform-at-paypal-100f70a7a6b)
 
 ---
 
 ## 🚀 What I'm building
-
-### [LocalCloud — local.cloud](https://local.cloud)
-
-A local cloud environment for developers and AI coding agents to build, test, and debug Google Cloud applications. Google Cloud-compatible services run in one Docker container, with familiar SDKs, a CLI, a web console, and MCP integration.
-
-The goal: a fast, repeatable development loop for applications, integration tests, and CI, without waiting for a cloud project or paying for Google Cloud resources during local testing.
-
-[CLI & releases](https://github.com/LocalGCloud/localcloud-cli) · [Documentation](https://local.cloud/docs/) · [AI agents & MCP](https://local.cloud/docs/mcp/)
 
 ### [Data Oculus — dataoculus.app](https://dataoculus.app)
 
@@ -43,7 +35,6 @@ Selected public architecture write-ups:
 | --- | --- |
 | [Apache Gobblin](https://github.com/apache/gobblin) | Committer; distributed data integration for streaming and batch ecosystems. |
 | [Apache Eagle](https://github.com/apache/eagle) | Committer; historical contributions to data-platform monitoring and alerting. |
-| [LocalCloud CLI](https://github.com/LocalGCloud/localcloud-cli) | Building the developer and MCP interface for LocalCloud. |
 | [Data Product Demo](https://github.com/jhsenjaliya/data-product-demo) | Hands-on material for teaching applied data mesh and data products. |
 
 [ASF committer directory](https://people.apache.org/committer-index.html) · [Gobblin committer announcement in ASF reports](https://www.apache.org/foundation/board/minutes/2021/board_minutes_2021_04_21.html) · [Eagle community history](https://www.apache.org/foundation/board/minutes/Eagle.html)
@@ -61,11 +52,11 @@ Selected public architecture write-ups:
 | --- | --- |
 | Streaming & integration | Kafka, Spark, Airflow, Gobblin, Debezium |
 | Data platforms | BigQuery, Iceberg, PostgreSQL, data mesh, metadata & governance |
-| Cloud & developer infrastructure | Google Cloud, Docker, local emulation, CI, MCP |
+| Cloud & infrastructure | Google Cloud, Docker, CI, APIs |
 | Building products | Java, Python, Go, TypeScript, APIs & distributed systems |
 
 ## 🤝 Connect
 
-I enjoy conversations about simpler platform architecture, reliable data, open source, and better development environments for humans and agents.
+I enjoy conversations about simpler platform architecture, reliable data, open source, and better tools for developers and data teams.
 
-[LinkedIn](https://www.linkedin.com/in/jaysen2/) · [LocalCloud](https://local.cloud) · [Data Oculus](https://dataoculus.app)
+[LinkedIn](https://www.linkedin.com/in/jaysen2/) · [Data Oculus](https://dataoculus.app)
