@@ -1,12 +1,12 @@
 # Hi, I'm Jay Sen 👋
 
-**Data Platform Architect · Technical Leader**
+**Data Platform Architect & Builder**
 
-I design and build data platforms that connect operational systems, real-time events, and analytical data products. My work spans enterprise engineering at PayPal, Apache open source, and applied research into how data is modeled, governed, and made reliable across systems.
+I design and build data platforms that connect operational systems, real-time events, and analytical data products. My work spans enterprise engineering at PayPal, open-source collaboration, and applied research into how data is modeled, governed, and made reliable across systems.
 
 Engineer and entrepreneur at heart, with 15+ years of experience turning complex infrastructure into platforms that teams can understand, adopt, and build on.
 
-[LinkedIn](https://www.linkedin.com/in/jaysen2/) · [ODSC speaker profile](https://staging6.odsc.com/blog/speaker/jay-sen/) · [Data Oculus](https://dataoculus.app)
+[LinkedIn](https://www.linkedin.com/in/jaysen2/) · [ODSC speaker profile](https://staging6.odsc.com/blog/speaker/jay-sen/) · [Apache profile](https://home.apache.org/phonebook.html?uid=jaysen) · [Data Oculus](https://dataoculus.app)
 
 ---
 
@@ -28,7 +28,9 @@ A useful data platform connects architecture to business outcomes: faster delive
 
 The same business entity often has different definitions in databases, Kafka events, and APIs. My **Super Schema** proposal explores a shared logical entity definition that generates platform-specific representations, reducing duplicated schema work and inconsistency. This connects data modeling, developer productivity, and governance.
 
-[ODSC session & abstract](https://odsc.ai/speakers-portfolio/super-schema/)
+I'm using [Microsoft TypeSpec](https://github.com/microsoft/typespec) in Super Schema and collaborating with its open-source community on database-schema generation. My proposal explores extending TypeSpec's emitter model to generate schemas for PostgreSQL, Spanner, BigQuery, Iceberg, Parquet, and other targets from a shared definition. The design discussions address type mappings, nullability, constraints, and database-specific semantics—turning cross-platform consistency into concrete engineering work.
+
+[ODSC session & abstract](https://odsc.ai/speakers-portfolio/super-schema/) · [TypeSpec proposal](https://github.com/microsoft/typespec/issues/10334) · [Design discussion](https://github.com/microsoft/typespec/issues/10334#issuecomment-4244266463)
 
 ### Practical data mesh — from principles to implementation
 
