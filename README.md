@@ -1,4 +1,4 @@
-# Hi, I'm Jay Sen 👋
+# Hi 👋
 
 **Data Platform Architect & Builder**
 
