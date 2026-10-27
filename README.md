@@ -37,11 +37,11 @@ A hands-on workshop connecting PostgreSQL CDC, Kafka Streams, Spark, and Iceberg
 
 ## Enterprise platform work
 
-At PayPal, my work spans platform architecture, hands-on engineering, and technical leadership. I focus on adoption, reliability, and operating cost across data movement, event collection, scanning, cataloging, and governed data foundations.
+My work spans platform architecture, hands-on engineering, and technical leadership. I focus on adoption, reliability, and operating cost across data movement, event collection, scanning, cataloging, and governed data foundations.
 
 My published architecture work describes an ecosystem spanning hundreds of petabytes:
 
-- **Integrated pipeline operations:** Bringing Airflow orchestration, Gobblin data movement, metadata, and platform APIs together. [Next-Gen Data Movement Platform at PayPal](https://medium.com/paypal-tech/next-gen-data-movement-platform-at-paypal-100f70a7a6b).
+- **Integrated pipeline operations:** Bringing Airflow orchestration, Gobblin data movement, metadata, and platform APIs together. [Next-Gen Data Movement Platform](https://medium.com/paypal-tech/next-gen-data-movement-platform-at-paypal-100f70a7a6b).
 - **Secure cross-zone integration:** Engineering encrypted data movement and authentication across enterprise security boundaries. [Architecture & lessons](https://medium.com/paypal-tech/how-paypal-moves-secure-and-encrypted-data-across-security-zones-10010c1788ce).
 
 <!-- TODO: Add verified, publicly shareable outcomes for onboarding time, reliability, adoption, or cost. See PROFILE_TODO.md. -->
@@ -52,7 +52,7 @@ My published architecture work describes an ecosystem spanning hundreds of petab
 | --- | --- |
 | **ODSC AI** | [Super Schema](https://odsc.ai/speakers-portfolio/super-schema/) — a shared logical definition across platforms; now being developed as enterprise data modeling with agent-oriented workflows. |
 | **ODSC East 2025** | **Applied Data Mesh Workshop for Scalable Data Platforms** — [implementation & materials](https://github.com/jhsenjaliya/data-product-demo). Featured among the organizers' [ten standout presentations](https://opendatascience.com/top-insights-from-odsc-east-2025-10-slide-decks-every-data-scientist-should-see/). |
-| **ODSC West 2024** | **Practical Data Mesh for Enterprises** — implementation approaches and a PayPal case study. [Session listing](https://staging6.odsc.com/blog/speaker/jay-sen/). |
+| **ODSC West 2024** | **Practical Data Mesh for Enterprises** — implementation approaches and an enterprise case study. [Session listing](https://staging6.odsc.com/blog/speaker/jay-sen/). |
 | **Airflow Summit 2021** | **Airflow as the Foundation of a Multi-Faceted Data Platform**, with Ry Walker. [Session & recording](https://airflowsummit.org/sessions/2021/airflow-as-the-foundation-multi-faceted-data-platform/). |
 
 ## Open source & community
