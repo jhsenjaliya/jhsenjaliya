@@ -2,18 +2,18 @@
 
 **Data Platform Architect & Builder**
 
-I build platforms that connect operational systems, real-time events, and trusted data products. With 15+ years across enterprise engineering and open source, my work combines hands-on implementation with platform strategy, governance, and reliability.
+I design and build solutions that solve problems of today and of distant foreseeable future. 
+With 15+ years across enterprise engineering and open source, my work combines hands-on implementation with platform strategy, governance, and reliability.
 
 [LinkedIn](https://www.linkedin.com/in/jaysen2/) · [ODSC speaker profile](https://staging6.odsc.com/blog/speaker/jay-sen/) · [Apache profile](https://home.apache.org/phonebook.html?uid=jaysen) · [Data Oculus](https://dataoculus.app)
 
 **Explore:** [Super Schema](SUPER_SCHEMA.md) · [Data mesh workshop](https://github.com/jhsenjaliya/data-product-demo) · [Platform writing](#enterprise-platform-work)
 
-## Current work
+## Current Active work (Open Source Community)
 
 | Work | Focus & status |
 | --- | --- |
-| **[Super Schema](SUPER_SCHEMA.md)** | **Enterprise data modeling for modern data platforms.** In development: shared logical models and consistent database, API, and event schemas, with a planned MCP interface designed for AI agents. [Project preview & demo plan](SUPER_SCHEMA.md). Public repository and demo coming later. |
-| **[Microsoft TypeSpec collaboration](https://github.com/microsoft/typespec/issues/10334)** | Working with the TypeSpec open-source community on database-schema emitters: shared definitions, type mappings, constraints, and platform-specific semantics. [Proposal & discussion](https://github.com/microsoft/typespec/issues/10334). |
+| **[Super Schema](SUPER_SCHEMA.md)** | **Enterprise data modeling for modern data platforms.** In development: shared logical models and consistent database, API, and event schemas, with a planned MCP interface designed for AI agents. [Project preview & demo plan](SUPER_SCHEMA.md). Public repository and demo coming later. [Microsoft TypeSpec collaboration](https://github.com/microsoft/typespec/issues/10334) -  Working with the TypeSpec open-source community on database-schema emitters: shared definitions, type mappings, constraints, and platform-specific semantics. [Proposal & discussion](https://github.com/microsoft/typespec/issues/10334). |
 | **[Data Oculus](https://dataoculus.app)** | Building real-time data reliability across streaming and batch systems through profiling, schema-drift detection, executable data contracts, and AI-assisted quality rules. [Documentation](https://dataoculus.app/docs/intro/). |
 
 ## Selected implementation
@@ -22,7 +22,8 @@ I build platforms that connect operational systems, real-time events, and truste
 
 A hands-on workshop connecting PostgreSQL CDC, Kafka Streams, Spark, and Iceberg. It demonstrates how source changes become enriched domain events and consumer-oriented data products, with historical snapshots and latest-state views.
 
-[Code, slides & setup](https://github.com/jhsenjaliya/data-product-demo) · [ODSC recognition](https://opendatascience.com/top-insights-from-odsc-east-2025-10-slide-decks-every-data-scientist-should-see/)
+* [Open Data Science Commuity Presentation](https://opendatascience.com/top-insights-from-odsc-east-2025-10-slide-decks-every-data-scientist-should-see/)
+* [Data Product Workshop Code, slides & setup](https://github.com/jhsenjaliya/data-product-demo)
 
 ## Areas of depth
 
