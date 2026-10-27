@@ -57,8 +57,11 @@ My published architecture work describes an ecosystem spanning hundreds of petab
 
 ## Open source & community
 
-I'm a committer on [Apache Gobblin](https://github.com/apache/gobblin) and [Apache Eagle](https://github.com/apache/eagle), have contributed to [Apache Airflow](https://github.com/apache/airflow), and collaborate in the [TypeSpec](https://github.com/microsoft/typespec) community on schema generation.
+* [Apache Airflow](https://github.com/apache/airflow)
+* [TypeSpec](https://github.com/microsoft/typespec)
+* [Apache Gobblin](https://github.com/apache/gobblin) 
+* [Apache Eagle](https://github.com/apache/eagle)
 
-I enjoy conversations about simpler platforms, consistent data models, and reliable data products.
+I enjoy conversations about simpler platforms, efficiency, and reliable platforms services.
 
 [LinkedIn](https://www.linkedin.com/in/jaysen2/) · [jaysen@apache.org](mailto:jaysen@apache.org)
